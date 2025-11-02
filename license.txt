@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 [Seu Nome]
+Copyright (c) 2025
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -37,3 +37,4 @@ suas gravadoras.
 As imagens utilizadas neste projeto são apenas para fins de demonstração 
 educacional. Em um ambiente de produção, certifique-se de utilizar apenas 
 imagens com as devidas autorizações e licenças apropriadas.
+
